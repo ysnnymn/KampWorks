@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampWorks", "KampWorks\Kamp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMethot", "ClassMethot\ClassMethot.csproj", "{E4362AC3-1FBB-4B19-A075-6C563EAC9C02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{C1B40B52-3D5A-4D41-B7B1-659A76611670}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{C1B40B52-3D5A-4D41-B7B1-659A76611670}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1", "RecapDemo1\RecapDemo1.csproj", "{BEFE7089-D34B-4D4D-9656-54DDF86484A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MernisSorgulama", "MernisSorgulama\MernisSorgulama.csproj", "{F76D364C-EE60-41DE-82CA-0101D038BA9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{C1B40B52-3D5A-4D41-B7B1-659A76611670}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1B40B52-3D5A-4D41-B7B1-659A76611670}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1B40B52-3D5A-4D41-B7B1-659A76611670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEFE7089-D34B-4D4D-9656-54DDF86484A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFE7089-D34B-4D4D-9656-54DDF86484A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFE7089-D34B-4D4D-9656-54DDF86484A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFE7089-D34B-4D4D-9656-54DDF86484A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76D364C-EE60-41DE-82CA-0101D038BA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76D364C-EE60-41DE-82CA-0101D038BA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76D364C-EE60-41DE-82CA-0101D038BA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76D364C-EE60-41DE-82CA-0101D038BA9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
