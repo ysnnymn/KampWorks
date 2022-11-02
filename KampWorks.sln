@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1", "RecapDemo1\Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MernisSorgulama", "MernisSorgulama\MernisSorgulama.csproj", "{F76D364C-EE60-41DE-82CA-0101D038BA9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameDemo", "GameDemo\GameDemo.csproj", "{D9499AEE-ECCD-44C9-87C5-204ACD6D90B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F76D364C-EE60-41DE-82CA-0101D038BA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F76D364C-EE60-41DE-82CA-0101D038BA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F76D364C-EE60-41DE-82CA-0101D038BA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9499AEE-ECCD-44C9-87C5-204ACD6D90B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9499AEE-ECCD-44C9-87C5-204ACD6D90B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9499AEE-ECCD-44C9-87C5-204ACD6D90B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9499AEE-ECCD-44C9-87C5-204ACD6D90B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
